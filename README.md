@@ -10,3 +10,7 @@ The video of the mask rcnn for USA downstreet.
 The extraction for butterfly eyespot through mask rcnn.
 
 ![擷取1](https://user-images.githubusercontent.com/31026907/69707510-df447a80-1134-11ea-94ee-0cd361d8fae7.PNG)
+
+The extraction for orchid root length and leaf width using the skeleton extraction algorithm and the min-rectangle area method via output mask.
+
+
