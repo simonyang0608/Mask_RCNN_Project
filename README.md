@@ -13,7 +13,7 @@ The extraction for average blackness of butterfly eyespot through mask rcnn.
 
 The extraction of featuremap from different layers of resnet50.
 
-
+![擷取3](https://user-images.githubusercontent.com/31026907/69710285-19644b00-113a-11ea-8e93-57b4230e3b70.PNG)
 
 The extraction for orchid root length and leaf width using the skeleton extraction algorithm and the min-rectangle area method via the output mask.
 
