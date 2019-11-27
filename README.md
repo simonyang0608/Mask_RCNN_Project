@@ -15,6 +15,10 @@ The extraction of featuremap from different layers of resnet50.
 
 ![擷取3](https://user-images.githubusercontent.com/31026907/69710285-19644b00-113a-11ea-8e93-57b4230e3b70.PNG)
 
+The extraction of featuremap from different layers of fpn.
+
+
+
 The extraction for orchid root length and leaf width using the skeleton extraction algorithm and the min-rectangle area method via the output mask.
 
 ![image](https://user-images.githubusercontent.com/31026907/69708103-fa63ba00-1135-11ea-807f-002e5ea3c021.png)
