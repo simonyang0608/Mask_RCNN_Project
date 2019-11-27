@@ -11,7 +11,11 @@ The extraction for average blackness of butterfly eyespot through mask rcnn.
 
 ![擷取1](https://user-images.githubusercontent.com/31026907/69707510-df447a80-1134-11ea-94ee-0cd361d8fae7.PNG)
 
-The extraction for orchid root length and leaf width using the skeleton extraction algorithm and the min-rectangle area method via output mask.
+The extraction for orchid root length and leaf width using the skeleton extraction algorithm and the min-rectangle area method via the output mask.
 
 ![image](https://user-images.githubusercontent.com/31026907/69708103-fa63ba00-1135-11ea-807f-002e5ea3c021.png)
+
+The different values for the features of orchids measured via the output boundingbox, mask, and classes.
+
+
 
