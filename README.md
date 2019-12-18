@@ -13,7 +13,7 @@ The extraction for average blackness of butterfly eyespot through mask rcnn.
 
 The extraction of orchid featuremap from different layers of resnet50.
 
-![擷取3](https://user-images.githubusercontent.com/31026907/69710285-19644b00-113a-11ea-8e93-57b4230e3b70.PNG)
+![擷取](https://user-images.githubusercontent.com/31026907/71086060-d7c43e80-21d3-11ea-8f65-9be5e5665d26.PNG)
 
 The extraction of orchid featuremap from different layers of fpn.
 
