@@ -27,7 +27,7 @@ The extraction for orchid root length and leaf width using the skeleton extracti
 
 1. The skeleton extraction algorithm (image morphology).
 
-![擷取7](https://user-images.githubusercontent.com/31026907/82224306-47428380-9956-11ea-9afe-23bf02e2158a.PNG)
+![擷取7](https://user-images.githubusercontent.com/31026907/82227829-df426c00-995a-11ea-9dfe-713c0ca31504.PNG)
 
 2. The min-rectangle area method.
 
