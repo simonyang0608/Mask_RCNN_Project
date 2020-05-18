@@ -11,15 +11,15 @@ The extraction for average blackness of butterfly eyespot through Mask RCNN.
 
 ![擷取1](https://user-images.githubusercontent.com/31026907/82220040-b74e0b00-9950-11ea-91df-419cf123ddf2.PNG)
 
-The extraction of orchid featuremap from different layers of Residual Network(ResNet).
+The extraction of orchid featuremap from different layers of Residual Network (ResNet).
 
 ![擷取5](https://user-images.githubusercontent.com/31026907/82219899-853ca900-9950-11ea-8ff9-b1f024486807.PNG)
 
-The extraction of orchid featuremap from different layers of Feature Pyramid Network(FPN).
+The extraction of orchid featuremap from different layers of Feature Pyramid Network (FPN).
 
 ![擷取4](https://user-images.githubusercontent.com/31026907/69710629-b1facb00-113a-11ea-808b-15d45ac37bb1.PNG)
 
-The Average-Precision(AP) and training time for different Mask RCNN models.
+The Average-Precision (AP) and training time for different Mask RCNN models.
 
 ![擷取6](https://user-images.githubusercontent.com/31026907/82221465-9dadc300-9952-11ea-879b-a3925689addd.PNG)
 
