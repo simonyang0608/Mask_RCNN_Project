@@ -9,9 +9,9 @@ The video of the mask rcnn for USA downstreet.
 
 The extraction for average blackness of butterfly eyespot through mask rcnn.
 
-![擷取1](https://user-images.githubusercontent.com/31026907/69707510-df447a80-1134-11ea-94ee-0cd361d8fae7.PNG)
+![擷取5](https://user-images.githubusercontent.com/31026907/82219899-853ca900-9950-11ea-8ff9-b1f024486807.PNG)
 
-The extraction of orchid featuremap from different layers of resnet50.
+The extraction of orchid featuremap from different layers of resnet.
 
 ![擷取](https://user-images.githubusercontent.com/31026907/71086060-d7c43e80-21d3-11ea-8f65-9be5e5665d26.PNG)
 
