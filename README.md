@@ -1,4 +1,4 @@
-# maskrcnn-project
+# Mask-RCNN Project
 Mask RCNN for feature extraction and measurement of butterflies and orchids
 
 The video of the mask rcnn for USA downstreet.
