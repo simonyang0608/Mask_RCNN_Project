@@ -17,6 +17,10 @@ The extraction of orchid featuremap from different layers of resnet.
 
 The extraction of orchid featuremap from different layers of fpn.
 
+![擷取6](https://user-images.githubusercontent.com/31026907/82221465-9dadc300-9952-11ea-879b-a3925689addd.PNG)
+
+The Average-Precision(AP) and training time for different models
+
 ![擷取4](https://user-images.githubusercontent.com/31026907/69710629-b1facb00-113a-11ea-808b-15d45ac37bb1.PNG)
 
 The extraction for orchid root length and leaf width using the skeleton extraction algorithm and the min-rectangle area method via the output mask.
