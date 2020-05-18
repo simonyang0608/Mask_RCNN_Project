@@ -25,11 +25,11 @@ The Average-Precision (AP) and training time for different Mask RCNN models.
 
 The extraction for orchid root length and leaf width using the skeleton extraction algorithm and the min-rectangle area method via the output mask.
 
-The skeleton extraction algorithm (image morphology).
+1. The skeleton extraction algorithm (image morphology).
 
 ![擷取7](https://user-images.githubusercontent.com/31026907/82224306-47428380-9956-11ea-9afe-23bf02e2158a.PNG)
 
-The detection output.
+2. The detection output.
 
 ![image](https://user-images.githubusercontent.com/31026907/69708103-fa63ba00-1135-11ea-807f-002e5ea3c021.png)
 
