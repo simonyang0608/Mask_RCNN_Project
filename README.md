@@ -29,7 +29,11 @@ The extraction for orchid root length and leaf width using the skeleton extracti
 
 ![擷取7](https://user-images.githubusercontent.com/31026907/82224306-47428380-9956-11ea-9afe-23bf02e2158a.PNG)
 
-2. The Mask RCNN model detection output.
+2. The min-rectangle area method.
+
+![擷取8](https://user-images.githubusercontent.com/31026907/82225372-b371b700-9957-11ea-888c-58620629b87d.PNG)
+
+3. The Mask RCNN model detection output.
 
 ![image](https://user-images.githubusercontent.com/31026907/69708103-fa63ba00-1135-11ea-807f-002e5ea3c021.png)
 
