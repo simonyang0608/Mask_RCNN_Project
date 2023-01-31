@@ -27,7 +27,7 @@
 
 - Skeleton extraction algorithm (image morphology).
 
-![擷取7](https://user-images.githubusercontent.com/31026907/82227829-df426c00-995a-11ea-9dfe-713c0ca31504.PNG)
+![擷取新](https://user-images.githubusercontent.com/31026907/215658947-0ad23de9-fe06-47f1-9746-93e2c995944c.PNG)
 
 - Min-rectangle area method.
 
