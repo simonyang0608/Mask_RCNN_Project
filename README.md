@@ -1,6 +1,6 @@
 # Mask-RCNN Project
 
-### Mask RCNN inference for USA downstreet video streaming.
+### Mask RCNN inference for USA downstreet video streaming
 
 <a href="https://imgflip.com/gif/3hoy1q"><img src="https://i.imgflip.com/3hoy1q.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/3howsk"><img src="https://i.imgflip.com/3howsk.gif" title="made at imgflip.com"/></a>
@@ -23,7 +23,7 @@
 
 ![擷取6](https://user-images.githubusercontent.com/31026907/82221465-9dadc300-9952-11ea-879b-a3925689addd.PNG)
 
-### Extraction for orchid root length and leaf width using skeleton extraction algorithm and min-rectangle area method via output mask.
+### Extraction for orchid root length and leaf width using skeleton extraction algorithm and min-rectangle area method via output mask
 
 - Skeleton extraction algorithm (image morphology).
 
@@ -33,11 +33,11 @@
 
 ![擷取8](https://user-images.githubusercontent.com/31026907/82225372-b371b700-9957-11ea-888c-58620629b87d.PNG)
 
-### Mask RCNN model detection output.
+### Mask RCNN model detection output
 
 ![image](https://user-images.githubusercontent.com/31026907/69708103-fa63ba00-1135-11ea-807f-002e5ea3c021.png)
 
-### Different values for the features of orchids measured via the output boundingbox, mask, and classes.
+### Different values for the features of orchids measured via the output boundingbox, mask, and classes
 
 ![擷取2](https://user-images.githubusercontent.com/31026907/69709188-ed47ca80-1137-11ea-814c-f2fd75cd9940.PNG)
 
