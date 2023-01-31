@@ -23,13 +23,13 @@
 
 ![擷取6](https://user-images.githubusercontent.com/31026907/82221465-9dadc300-9952-11ea-879b-a3925689addd.PNG)
 
-- The extraction for orchid root length and leaf width using the skeleton extraction algorithm and the min-rectangle area method via output mask.
+### The extraction for orchid root length and leaf width using the skeleton extraction algorithm and the min-rectangle area method via output mask.
 
-### The skeleton extraction algorithm (image morphology).
+- The skeleton extraction algorithm (image morphology).
 
 ![擷取7](https://user-images.githubusercontent.com/31026907/82227829-df426c00-995a-11ea-9dfe-713c0ca31504.PNG)
 
-### The min-rectangle area method.
+- The min-rectangle area method.
 
 ![擷取8](https://user-images.githubusercontent.com/31026907/82225372-b371b700-9957-11ea-888c-58620629b87d.PNG)
 
