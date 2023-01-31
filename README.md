@@ -47,5 +47,6 @@
   git clone https://github.com/simonhandsome/maskrcnn-project
   cd maskrcnn-project
 
-# To get the release pretrained model: https://github.com/simonhandsome/maskrcnn-project/releases/tag/1
+# To get the release pretrained model: 
+  https://github.com/simonhandsome/maskrcnn-project/releases/tag/1
 
