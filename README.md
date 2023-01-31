@@ -45,9 +45,9 @@
 
 - Clone this repo to your local
 
-![git clone https://github.com/simonhandsome/maskrcnn-project](https://img.shields.io/badge/-git%20clone%20https%3A%2F%2Fgithub.com%2Fsimonhandsome%2Fmaskrcnn--project-lightgrey)
+![git clone https://github.com/simonhandsome/maskrcnn-project](https://img.shields.io/badge/-git%20clone%20https%3A%2F%2Fgithub.com%2Fsimonhandsome%2Fmaskrcnn--project-plastic)
 
-![cd maskrcnn-project](https://img.shields.io/badge/-cd%20maskrcnn--project-lightgrey)
+![cd maskrcnn-project](https://img.shields.io/badge/-cd%20maskrcnn--project-plastic)
 
 # To get the release pretrained model
   https://github.com/simonhandsome/maskrcnn-project/releases/tag/1
