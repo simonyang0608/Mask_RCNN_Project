@@ -41,13 +41,6 @@
 
 ![擷取2](https://user-images.githubusercontent.com/31026907/69709188-ed47ca80-1137-11ea-814c-f2fd75cd9940.PNG)
 
-# Getting Started
-
-- Clone this repo to your local
-
-![git clone https://github.com/simonhandsome/maskrcnn-project
-  cd maskrcnn-project](https://img.shields.io/badge/-git%20clone%20https%3A%2F%2Fgithub.com%2Fsimonhandsome%2Fmaskrcnn--project-lightgrey)
-
 # To get the release pretrained model
   https://github.com/simonhandsome/maskrcnn-project/releases/tag/1
 
