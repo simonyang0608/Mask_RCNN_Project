@@ -1,6 +1,6 @@
 # Project Description
 
-### Inference for USA downstreet video streaming
+### Inference results for USA downstreet video streaming
 
 <a href="https://imgflip.com/gif/3hoy1q"><img src="https://i.imgflip.com/3hoy1q.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/3howsk"><img src="https://i.imgflip.com/3howsk.gif" title="made at imgflip.com"/></a>
