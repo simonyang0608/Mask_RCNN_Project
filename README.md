@@ -37,7 +37,7 @@
 
 ![image](https://user-images.githubusercontent.com/31026907/69708103-fa63ba00-1135-11ea-807f-002e5ea3c021.png)
 
-### Different values for the features of orchids measured via the output boundingbox, mask, and classes
+### Different values for the features of orchids measured via output boundingboxes, masks, and classes
 
 ![擷取2](https://user-images.githubusercontent.com/31026907/69709188-ed47ca80-1137-11ea-814c-f2fd75cd9940.PNG)
 
