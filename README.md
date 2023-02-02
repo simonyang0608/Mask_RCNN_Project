@@ -50,6 +50,21 @@ git clone https:/github.com/simonhandsome/Mask_RCNN_Project
 cd Mask_RCNN_Project
 ```
 
+### Computer equipments
+
+- System: Ubuntu16.04
+- Python version: Python 3.5 or higher
+- Keras version: Keras 1.8.4
+- Tensorflow version: Tensorflow 1.8.0
+- Testing:
+  CPU: Intel(R) Core(TM)i5-7300HQ CPU @ 2.5.0 GHz
+  GPU: NVIDIA GeForce GTX 1050 2GB
+- Training:
+  CPU: Intel Xeon E5-2698 Dual Core*20 CPU @ 42.2 GHz
+  GPU: Tesla V100 16 GB * 8
+  
+### Inference
+
 # To get the release pretrained model
   https://github.com/simonhandsome/maskrcnn-project/releases/tag/1
 
