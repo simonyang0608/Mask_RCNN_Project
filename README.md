@@ -46,7 +46,7 @@
 - Clone this repo to your local
 
 ```
-git clone https:/github.com/simonhandsome/Mask_RCNN_Project
+git clone https://github.com/simonhandsome/Mask_RCNN_Project
 cd Mask_RCNN_Project
 ```
 
