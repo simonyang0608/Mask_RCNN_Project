@@ -62,8 +62,6 @@ cd Mask_RCNN_Project
 - Training:
   CPU: Intel Xeon E5-2698 Dual Core*20 CPU @ 42.2 GHz
   GPU: Tesla V100 16 GB * 8
-  
-### Inference
 
 # To get the release pretrained model
   https://github.com/simonhandsome/maskrcnn-project/releases/tag/1
