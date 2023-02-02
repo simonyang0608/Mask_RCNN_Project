@@ -41,7 +41,7 @@
 
 ![擷取2](https://user-images.githubusercontent.com/31026907/69709188-ed47ca80-1137-11ea-814c-f2fd75cd9940.PNG)
 
-# Setup & execute
+# Setup & run code
 
 ### Getting started
 
