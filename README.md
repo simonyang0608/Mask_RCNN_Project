@@ -58,9 +58,16 @@ cd Mask_RCNN_Project
 - Python version: Python 3.5 or higher
 - Keras version: Keras 1.8.4
 - Tensorflow version: Tensorflow 1.8.0
+- Training:
+  CPU: Intel Xeon E5-2698 Dual 20 cores @ 42.2 GHz \
+  GPU: NVIDIA Tesla V100 16GB*8
 - Testing & inference: \
   CPU: Intel(R) Core(TM)i5-7300HQ CPU @ 2.5.0 GHz \
   GPU: NVIDIA GeForce GTX 1050 2GB
+  
+### Prepare training dataset
+
+
 
 # To get the release pretrained model
   https://github.com/simonhandsome/maskrcnn-project/releases/tag/1
