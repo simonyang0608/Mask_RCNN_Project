@@ -67,7 +67,7 @@ cd Mask_RCNN_Project
   
 ### Training
 
-- You should download the Mask RCNN pretrained models. And put the model on the folder ./mrcnn_model to train related models continously.
+- You should download the released pretrained models. And put the model on the folder ./mrcnn_model to train related models continously.
 
 ```
 python3 mrcnn_model/parallel_model.py
@@ -75,7 +75,7 @@ python3 mrcnn_model/parallel_model.py
 
 ### Testing & inference
 
-- You should download the Mask RCNN pretrained models. And put the model on the folder ./mrcnn_model to inference the test set on the folder ./pic.
+- You should download the released pretrained models. And put the model on the folder ./mrcnn_model to inference the test set on the folder ./pic.
   
 - Orchids dataset or video streaming
   
@@ -89,6 +89,6 @@ python3 mask_rcnn_create_live_stream.py
 python3 mask_rcnn_detect_butterfly.py
 ```
 
-# To get the release pretrained model
+# To get the released pretrained model
   https://github.com/simonhandsome/maskrcnn-project/releases/tag/1
 
