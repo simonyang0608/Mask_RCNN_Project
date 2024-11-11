@@ -48,7 +48,7 @@
 - Clone this repo to your local
 
 ```
-git clone https://github.com/simonhandsome/Mask_RCNN_Project
+git clone https://github.com/simonyang0608/Mask_RCNN_Project
 cd Mask_RCNN_Project
 ```
 
@@ -90,5 +90,5 @@ python3 mask_rcnn_detect_butterfly.py
 ```
 
 # To get the released pretrained model
-  https://github.com/simonhandsome/maskrcnn-project/releases/tag/1
+  https://github.com/simonyang0608/Mask_RCNN_Project/releases/tag/1
 
